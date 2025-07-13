@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Antelope",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/antelope.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Badger",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/badger.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Bat",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/bat.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Bear",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/bear.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Bee",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/bee.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Beetle",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/beetle.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Bison",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/bison.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Boar",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/boar.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Butterfly",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/butterfly.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Cat",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/cat.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Caterpillar",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/caterpillar.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Chimpanzee",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/chimpanzee.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Cockroach",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/cockroach.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Cow",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/cow.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Coyote",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/coyote.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Crab",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/crab.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Crow",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/crow.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Deer",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/deer.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Dog",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/dog.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Dolphin",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/dolphin.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Donkey",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/donkey.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Dragonfly",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/dragonfly.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Duck",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/duck.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Eagle",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/eagle.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Elephant",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/elephant.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Flamingo",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/flamingo.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Fly",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/fly.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Fox",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/fox.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Goat",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/goat.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Goldfish",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/goldfish.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Goose",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/goose.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Gorilla",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/gorilla.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Grasshopper",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/grasshopper.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Hamster",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/hamster.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Hare",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/hare.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Hedgehog",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/hedgehog.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Hippopotamus",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/hippopotamus.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Hornbill",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/hornbill.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Horse",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/horse.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Hummingbird",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/hummingbird.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Hyena",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/hyena.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Jellyfish",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/jellyfish.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Kangaroo",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/kangaroo.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Koala",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/koala.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Ladybugs",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/ladybugs.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Leopard",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/leopard.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Lion",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/lion.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Lizard",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/lizard.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Lobster",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/lobster.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Mosquito",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/mosquito.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Moth",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/moth.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Mouse",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/mouse.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Octopus",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/octopus.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Okapi",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/okapi.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Orangutan",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/orangutan.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Otter",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/otter.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Owl",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/owl.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Ox",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/ox.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Oyster",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/oyster.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Panda",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/panda.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Parrot",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/parrot.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Pelecaniformes",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/pelecaniformes.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Penguin",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/penguin.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Pig",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/pig.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Pigeon",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/pigeon.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Porcupine",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/porcupine.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Possum",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/possum.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Raccoon",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/raccoon.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Rat",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/rat.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Reindeer",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/reindeer.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Rhinoceros",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/rhinoceros.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Sandpiper",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/sandpiper.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Seahorse",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/seahorse.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Seal",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/seal.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Shark",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/shark.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Sheep",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/sheep.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Snake",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/snake.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Sparrow",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/sparrow.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Squid",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/squid.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Squirrel",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/squirrel.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Starfish",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/starfish.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Swan",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/swan.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Tiger",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/tiger.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Turkey",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/turkey.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Turtle",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/turtle.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Whale",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/whale.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Wolf",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/wolf.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Wombat",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/wombat.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Woodpecker",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/woodpecker.jpg",
+    "sound": ""
+  },
+  {
+    "name": "Zebra",
+    "country": "",
+    "lat": 0,
+    "lon": 0,
+    "img": "https://raw.githubusercontent.com/Srivastava-Kush/animal-globe-assets/main/images/zebra.jpg",
+    "sound": ""
+  }
+]
